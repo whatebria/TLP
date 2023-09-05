@@ -1,0 +1,23 @@
+#fila1, #fila2, #fila3 {
+    height: 33vw;
+}
+
+#fila1 {
+    background-color: blue;
+}
+
+#fila2 {
+    background-color: black;
+}
+
+#fila3 {
+    background-color: blueviolet;
+}
+
+#col8{
+    background-color: cadetblue;
+}
+
+#col4{
+    background-color: steelblue;
+}

@@ -1,0 +1,52 @@
+.navbar {
+    background-color: #85D4B7;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100%;
+}
+
+.txt {
+    color: aliceblue;
+}
+
+#vegan {
+    background-color:#6DCCAA ;
+    box-sizing: border-box;
+    height: 800px;
+    width: 100%;
+}
+
+
+.footer{
+    background-color: #6DCCAA;
+}
+
+#eetcafe { 
+    background-color: #FFCF3F;
+    box-sizing: border-box;
+    height: 600px;
+    width: 100%;
+}
+
+#imgeetcafe {
+    box-sizing: border-box;
+}
+
+#winkei {
+    text-align: center;
+    background-color: #404040;
+    box-sizing: border-box;
+    height: 500px;
+    width: 100%;
+}
+
+
+#a {
+    color: aliceblue;
+}
+
+.buttons {
+    margin-top: 23%;
+    margin-right: 5%;
+}
+
